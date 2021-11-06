@@ -18,6 +18,7 @@
                 <div class="header">
                     <h3>Sign Up</h3>
                     <span>to continue to Markflix</span>
+                    <img src="assets/images/logo.png">
                 </div>
 
                 <form method="POST">
